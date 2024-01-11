@@ -12,7 +12,7 @@
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
-_to share, to improve1 :sparkles:_
+_to share, to improve :sparkles:_
 
 <footer>
 
